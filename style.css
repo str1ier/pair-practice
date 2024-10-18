@@ -68,3 +68,68 @@ main {
 
 
 
+
+
+.info__bottom {
+    width: 940px;
+    height: 435px;
+}
+
+.head_section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button_blue {
+    width: 150px;
+    height: 40px;
+    background: #00A4E5;
+    border: none;
+}
+
+.card_info {
+    width: 295px;
+    height: 330px;
+    border: 1px solid #E6E6E6;
+    padding: 23px 38px;
+}
+
+
+.card__boss {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 116px;
+}
+
+.h2__head {
+    font-weight: 700;
+    font-size: 18px;
+    color: #48555B;
+    border: 2px 2px solid #00A4E5;
+}
+
+.text__head {
+    line-height: 19px;
+    color: #48555B;
+    font-size: 11px;
+    font-weight: 400;
+}
+
+
+.h2__card {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    padding-top: 25px;
+    color: #48555B;
+}
+
+
+.card__p {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 177%;
+    padding-top: 13px;
+}
