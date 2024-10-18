@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 118px;
+    align-items: center;
+}
+
+.info-top {
+    padding: 58px 0;
+    width: 941px;
+    height: 344px;
+    display: flex;
+    flex-direction: column;
+}
+
+.story {
+    text-align: center;
+    margin-bottom: 11px;
+}
+
+.line {
+    height: 2px;
+    width: 52px;
+    margin-bottom: 80px;
+    align-self: center;
+}
+
+.info-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-text {
+    width: 405px;
+}
+
+.found {
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0.01em;
+    color: #48555b;
+    margin-bottom: 30px;
+}
+
+.blue {
+    color: #16ace8;
+}
+
+.lorem {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 177%;
+    letter-spacing: 0.01em;
+    color: #48555b;
+}
+
+.info-img {
+    display: flex;
+    gap: 20px;
+}
+
+
+
+
